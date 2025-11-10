@@ -1,6 +1,6 @@
-## Hi there im Lorenz Hohermuth 👋
+## Hi there im Lorenz👋
 
-* 📊 Software Developer at BSI Business Systems Integration
+* 📊 Software Developer in Zurich
 * ☕ Professional using Java
 * 🌀 Personal loving Go
 * 🍵 Self hosted [git](https://git.lorenzzz.dev)
@@ -8,8 +8,6 @@
 <!--
 Stacks that i like 📚
 * 🍵 Go, Bubbletea & Lipgloss
-
-**LorenzHohermuth/LorenzHohermuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
